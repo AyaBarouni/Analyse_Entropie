@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Analyse de l'entropie d'un mot de passe
 
 Utilisation de Python pour évaluer la complexité d'un mot de passe à l'aide de l'entropie de Shannon.
@@ -73,7 +72,3 @@ Un score de 3.81 bits par caractère indique que les caractères du mot de passe
 - Appliquer un concept mathématique (l'entropie de Shannon, issue de la théorie de l'information) à un problème concret de cybersécurité
 - Utiliser `collections.Counter` pour transformer une chaîne de texte en données statistiques exploitables, sans avoir à construire manuellement un dictionnaire de fréquences
 - Comprendre que l'entropie par caractère est additive : si chaque caractère apporte 4 bits d'incertitude, un mot de passe de 10 caractères offre $2^{40}$ combinaisons possibles, ce qui rend une attaque par force brute statistiquement inviable
-=======
-# Mot_de_passe_securise
-Test de la sécurité d'un mot de passe en fonction de son entropie de Shannon.
->>>>>>> 89a4782bf9413d00bab5405c125ae9d859ece613
